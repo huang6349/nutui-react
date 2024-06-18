@@ -1,5 +1,6 @@
 import { RadioGroup } from './radiogroup'
 
+export type { RadioGroupProps } from './radiogroup'
 export type {
   RadioGroupOption,
   RadioGroupPosition,
